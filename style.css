@@ -1,33 +1,32 @@
 h1 {
-    color: blueviolet;
-    background-image: url(banner-espacio.jpg);
-    background-size: cover;
-    text-align:center; 
-    height: 100px;
-    padding-top: 2%;
-
+  color: blueviolet;
+  background-image: url(images/banner-espacio.jpg);
+  background-size: cover;
+  text-align: center;
+  height: 100px;
+  padding-top: 2%;
 }
- 
+
 body {
-    background-color: rgb(104, 14, 96);
-    font-family: monospace;
-    color: rgb(25, 216, 51);
+  background-color: rgb(104, 14, 96);
+  font-family: monospace;
+  color: rgb(25, 216, 51);
 }
 
-.nav-item{
-    background-color: rgb(43, 226, 67);
-    margin: auto;
-    padding: 10px;
+.nav-item {
+  background-color: rgb(43, 226, 67);
+  margin: auto;
+  padding: 10px;
 }
 
 nav {
-    display: flex;
-    flex-direction: row;
-    justify-content:space-evenly;
-    flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 section {
-    max-width: 1400px;
-    margin: auto;
+  max-width: 1400px;
+  margin: auto;
 }
